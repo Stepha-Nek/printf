@@ -64,7 +64,7 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 ## 3. What one has not experienced, one will never understand in print
     - Handle the following conversion specifiers:
         - u
-        - oup project
+        - o
         - x
         - X
     - You don’t have to handle the flag characters
@@ -111,7 +111,7 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
     - All the above options work well together.
 
 ## Authors:
-### Daniel Yohannes: [@leinad85daniel](https://github.com/leinad85daniel)
-### Selahadin Mohammed: [@selahudin](https://github.com/selahudin)
+### Olabode Stephen: [@bodestephen](https://github.com/bodestephen)
+### Nnke Oguh: [@Stepha-Nek](https://github.com/Stepha-Nek)
 
 ### Thank You!
