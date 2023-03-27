@@ -1,8 +1,10 @@
 #include "main.h"
 
-/****************** PRINT POINTER ******************/
+/********************* PRINT POINTER *********************/
 /**
  * print_pointer - Prints the value of a pointer variable
+ * to the
+ * standard output
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
@@ -186,7 +188,3 @@ int print_rot13string(va_list types, char buffer[],
 	}
 	return (count);
 }
-
-
-
-
